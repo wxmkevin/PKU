@@ -1,10 +1,10 @@
 # CS 294: Deep Reinforcement Learning Note
 
-#**Berkeley深度强化学习**
+# **Berkeley深度强化学习**
 
 [TOC]
 
-#第一章：简介+模仿学习
+# 第一章：简介+模仿学习
 
 本专题记录了在自学伯克利的深度学习课程时的笔记，主要目的是供个人学习用和同道交流，因此有一些个人的观点和感想。文章主要是对CS 294课程视频的翻译与整理，附加一些相关知识。课程地址：[http://rll.berkeley.edu/deeprlcoursesp17/](https://link.zhihu.com/?target=http%3A//rll.berkeley.edu/deeprlcoursesp17/)，[课程视频地址](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3D8jQIKgTzQd4%26index%3D1%26list%3DPLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) 。（这是我第一次写文章，文章有什么问题请指教。）
 
